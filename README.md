@@ -1,4 +1,4 @@
-# R10-RFC5053-Raptor-code-
+# R10 (RFC5053) -Raptor code
 Provide encoder and decoder of R10
 This projects provides encoder and decoder of Raptor codes, which is detailed in the standard file "RFC5053".
 It is written with MATLAB.
