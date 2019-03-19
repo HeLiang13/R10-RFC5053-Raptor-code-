@@ -5,7 +5,7 @@ It is written with MATLAB.
 
 Four decoding methods are included. 
 1. The stadard decoding algorithm in RFC5053;
-2. Random choose for pivot row in decoding Phase 1.
+2. Choose pivot row at random in decoding Phase 1.
 3. Kim's method for choosing pivot row in Phase 1, which can be found in paper of DOI 10.1109/LCOMM.2008.080599;
 4. Zhang's algorithm which has pre-processed the decoding matrix, which is in paper of DOI 10.1109/ICMTMA.2010.531.
 
