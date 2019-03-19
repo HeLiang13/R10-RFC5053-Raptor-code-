@@ -14,6 +14,7 @@ My simulation results are in file "time_u_overhead_1.01.mat" and "time_u_overhea
 
 Run "encode.m' and "decode.m", you get the results of encoder where you can set the block length "K", and then you get the results of decoder. If you want to run simulation for decoding time, use "Main_simulation.m" and uncomment relevant line in "encode.m' and "decode.m" in order to modify the two ".m" file into function file.
 
+-----------------------------------------------------------------------------------------
 本项目提供RFC 5053中Raptor码的编译码程序。
 译码算法包括：
 1.标准算法
